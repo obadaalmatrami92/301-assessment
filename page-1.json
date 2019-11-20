@@ -1,0 +1,16 @@
+{
+    "name": "obada",
+
+    "age": 27,
+
+    "names": [
+        { "name": ["Ahmad"] },
+        { "name": ["Omar"] },
+        { "name": ["Rami"] },
+        { "name": ["Ali"] },
+        { "age": 26 },
+        { "age": 24 },
+        { "age": 23 },
+        { "age": 22 }
+    ]
+}
