@@ -1,0 +1,42 @@
+    header {
+        background-color: black;
+        color: white;
+        font-size: 50px;
+        padding-top: -50px;
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    
+    footer {
+        background-color: darkgray;
+        color: black;
+        font-size: 50px;
+        text-align: center;
+        margin-top: 100px;
+    }
+    
+    main {
+        background-color: navajowhite;
+        color: darkblue;
+        font-size: 50px;
+    }
+    
+    main .nav li {
+        display: inline;
+        margin: 46px;
+    }
+    
+    #a,
+    #o,
+    #i,
+    #aa,
+    #oo,
+    #r,
+    #h,
+    #aaa,
+    #m {
+        background-color: lightgrey;
+        border: 10px solid black;
+        padding: 10px, 10px, 0, 0;
+        margin: 10px, 10px, 0, 0;
+    }
